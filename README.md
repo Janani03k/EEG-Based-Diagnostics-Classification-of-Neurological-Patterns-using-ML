@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on improving epilepsy diagnosis by thoroughly examining EEG data using advanced data analysis techniques, including Convolutional Neural Networks (CNN). We utilized two distinct datasets: the CHB-MIT EEG Database and the Bonn EEG Dataset, to develop a more accurate and automated method for epilepsy diagnosis.
 
+Dataset used: https://physionet.org/content/chbmit/1.0.0/
+
 ## Objectives
 - To conduct a detailed analysis of EEG data for epilepsy diagnosis.
 - To compare the efficacy of frequency domain signals against time domain signals in classifying epileptic patterns.
